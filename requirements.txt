@@ -1,0 +1,11 @@
+sudo apt-get install libclamav-dev
+
+git clone https://github.com/dmitriym09/py-clamav.git
+cd py-clamav
+python setup.py install
+
+# very important
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/xingzhang/miniconda3/lib
+
+# kill all processes
+kill -9 $(ps -aux | grep infect)

@@ -1,0 +1,94 @@
+/media/xingzhang/ELab5T/meta_data/ Black Clover Movie.json   False
+/media/xingzhang/ELab5T/meta_data/ Dead Mount Death Play Part 2 (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/ Dead Mount Death Play Part 2.json   False
+/media/xingzhang/ELab5T/meta_data/ Martial arts master.json   False
+/media/xingzhang/ELab5T/meta_data/ The invincible Great Immortal at the beginning.json   False
+/media/xingzhang/ELab5T/meta_data/.Hack  G.U. Returner.json   False
+/media/xingzhang/ELab5T/meta_data/.Hack  Sign.json   False
+/media/xingzhang/ELab5T/meta_data/.hack  G.U. Trilogy.json   False
+/media/xingzhang/ELab5T/meta_data/.hack  Gift.json   False
+/media/xingzhang/ELab5T/meta_data/.hack  Legend of the Twilight.json   False
+/media/xingzhang/ELab5T/meta_data/.hack  Liminality (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/.hack  Liminality.json   False
+/media/xingzhang/ELab5T/meta_data/.hack  Quantum .json   False
+/media/xingzhang/ELab5T/meta_data/.hack  Roots (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/.hack  Roots.json   False
+/media/xingzhang/ELab5T/meta_data/.hack  Sign (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/.hack  Tasogare no Udewa Densetsu (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/.json   False
+/media/xingzhang/ELab5T/meta_data/009-1 (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/009-1.json   False
+/media/xingzhang/ELab5T/meta_data/07-GHOST.json   False
+/media/xingzhang/ELab5T/meta_data/1 Pound no Fukuin.json   False
+/media/xingzhang/ELab5T/meta_data/1-gatsu ni wa Christmas.json   False
+/media/xingzhang/ELab5T/meta_data/100% Pascal-sensei.json   False
+/media/xingzhang/ELab5T/meta_data/100% Perfect Love.json   False
+/media/xingzhang/ELab5T/meta_data/100-man no Inochi no Ue ni Ore wa Tatteiru (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season.json   False
+/media/xingzhang/ELab5T/meta_data/100-man no Inochi no Ue ni Ore wa Tatteiru.json   False
+/media/xingzhang/ELab5T/meta_data/1001 Nights (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/1001 Nights.json   False
+/media/xingzhang/ELab5T/meta_data/11eyes .json   False
+/media/xingzhang/ELab5T/meta_data/18if (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/18if.json   False
+/media/xingzhang/ELab5T/meta_data/2 x 2 Shinobuden.json   False
+/media/xingzhang/ELab5T/meta_data/2.5-jigen no Ririsa.json   False
+/media/xingzhang/ELab5T/meta_data/22 7.json   False
+/media/xingzhang/ELab5T/meta_data/3 x 3 Eyes.json   False
+/media/xingzhang/ELab5T/meta_data/3-Nen D-Gumi Glass no Kamen.json   False
+/media/xingzhang/ELab5T/meta_data/3-gatsu no Lion (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/3-gatsu no Lion 2nd Season (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/3-gatsu no Lion 2nd Season.json   False
+/media/xingzhang/ELab5T/meta_data/3-gatsu no Lion.json   False
+/media/xingzhang/ELab5T/meta_data/3-nen Z-gumi Ginpachi-sensei.json   False
+/media/xingzhang/ELab5T/meta_data/30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii.json   False
+/media/xingzhang/ELab5T/meta_data/30-sai no Hoken Taiiku.json   False
+/media/xingzhang/ELab5T/meta_data/3000 Leagues in Search of Mother.json   False
+/media/xingzhang/ELab5T/meta_data/30th Gundam Perfect Mission.json   False
+/media/xingzhang/ELab5T/meta_data/3x3 Eyes (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/4-nin wa Sorezore Uso wo Tsuku.json   False
+/media/xingzhang/ELab5T/meta_data/40 Shuunen Da yo!! CoroCoro All-Star Shougakkou.json   False
+/media/xingzhang/ELab5T/meta_data/5 Centimeters Per Second.json   False
+/media/xingzhang/ELab5T/meta_data/5 Centimeters per Second (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/5-toubun no Hanayome 2 (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/5-toubun no Hanayome 2.json   False
+/media/xingzhang/ELab5T/meta_data/5-toubun no Hanayome Movie (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/5-toubun no Hanayome Movie.json   False
+/media/xingzhang/ELab5T/meta_data/5-toubun no Hanayome∽.json   False
+/media/xingzhang/ELab5T/meta_data/6 Angels.json   False
+/media/xingzhang/ELab5T/meta_data/6HP (Six Hearts Princess).json   False
+/media/xingzhang/ELab5T/meta_data/7 Seeds (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/7 Seeds 2nd Season (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/7 Seeds.json   False
+/media/xingzhang/ELab5T/meta_data/77Danui Bimil.json   False
+/media/xingzhang/ELab5T/meta_data/86 (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/86 Part 2 (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/86 Part 2.json   False
+/media/xingzhang/ELab5T/meta_data/86.json   False
+/media/xingzhang/ELab5T/meta_data/91 Days (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/91 Days Special.json   False
+/media/xingzhang/ELab5T/meta_data/91 Days.json   False
+/media/xingzhang/ELab5T/meta_data/A Channel Ova .json   False
+/media/xingzhang/ELab5T/meta_data/A Channel Special .json   False
+/media/xingzhang/ELab5T/meta_data/A Channel.json   False
+/media/xingzhang/ELab5T/meta_data/A Day Before Us.json   False
+/media/xingzhang/ELab5T/meta_data/A Disguised Princess.json   False
+/media/xingzhang/ELab5T/meta_data/A Favorite Marriage is Coming.json   False
+/media/xingzhang/ELab5T/meta_data/A Game Between You and Me.json   False
+/media/xingzhang/ELab5T/meta_data/A Kite (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/A Kite.json   False
+/media/xingzhang/ELab5T/meta_data/A Letter to Momo (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/A Little Snow Fairy Sugar (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/A Little Snow Fairy Sugar.json   False
+/media/xingzhang/ELab5T/meta_data/A Lord Who Doesn't Mind Being A Lord.json   False
+/media/xingzhang/ELab5T/meta_data/A Master Of Pints.json   False
+/media/xingzhang/ELab5T/meta_data/A Starry Tale (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/A Tree of Palme (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/A Useless Onmyoji Family.json   False
+/media/xingzhang/ELab5T/meta_data/A Wind Named Amnesia (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/A Wind Named Amnesia.json   False
+/media/xingzhang/ELab5T/meta_data/A playboy of exorcist.json   False
+/media/xingzhang/ELab5T/meta_data/A-Girl.json   False
+/media/xingzhang/ELab5T/meta_data/A.D. Police (Dub).json   False
+/media/xingzhang/ELab5T/meta_data/A.D. Police (TV) (Dub).json   False
